@@ -6,4 +6,5 @@
  - Click on Zerar Contador button to turn the counter to zero.
 
  # Author
-- Yuri Borges Sena / github.com/YuriSena
+- Yuri Borges Sena
+- github.com/YuriSena
